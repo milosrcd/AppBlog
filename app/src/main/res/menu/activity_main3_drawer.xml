@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/design"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="Design" />
+        <item
+            android:id="@+id/webdev"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="Web Development" />
+        <item
+            android:id="@+id/mobdev"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="Mobile Development" />
+        <item
+            android:id="@+id/marketing"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="Internet Marketing" />
+        <item
+            android:id="@+id/creativity"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="Creativity" />
+        <item
+            android:id="@+id/frontend"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="Front-End" />
+        <item
+            android:id="@+id/backend"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="Back-End" />
+    </group>
+
+
+
+</menu>
